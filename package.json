@@ -67,3 +67,6 @@
     "typescript": "^5"
   }
 }
+"pnpm": {
+  "onlyBuiltDependencies": ["sharp", "esbuild", "bufferutil", "utf-8-validate"]
+}
